@@ -25,3 +25,7 @@ update-hermes.sh
 
 # Monetization planning — private, never committed
 monetization/
+
+# Local launcher/test scripts that carry live keys — never commit
+KHOI_DONG_FREELLMAPI.bat
+test_client_gateway.py
